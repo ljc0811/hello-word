@@ -1,0 +1,9 @@
+# -*- coding: utf-8 -*-
+
+print("zhe")
+print("shi")
+print("yi")
+print("dao")
+print("qian")
+print("dao")
+print("ti")
